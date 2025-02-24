@@ -1,8 +1,6 @@
 # 🛡️ ANTİHİLE - Gelişmiş Oyun Güvenlik Sistemi
 
 <div align="center">
-  <img src="public/matrix.png" alt="ANTİHİLE Logo" width="200"/>
-  <br/>
   <strong>Oyun Güvenliğinde Yeni Nesil Çözüm</strong>
 </div>
 
