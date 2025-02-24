@@ -1,57 +1,57 @@
-# 🛡️ ANTİHİLE - Gelişmiş Oyun Güvenlik Sistemi
+# 🛡️ ANTİHİLE - Oyun Güvenlik Araştırma Topluluğu
 
 <div align="center">
-  <strong>Oyun Güvenliğinde Yeni Nesil Çözüm</strong>
+  <strong>Oyun Güvenliğinde Etik Araştırma ve Geliştirme</strong>
 </div>
 
 ## 🎯 Misyonumuz
 
-ANTİHİLE, oyun dünyasında adil ve güvenli bir ortam sağlamak için geliştirilmiş ileri düzey bir anti-cheat sistemidir. Amacımız:
+ANTİHİLE, oyun dünyasında güvenlik açıklarını etik kurallar çerçevesinde araştıran ve oyun geliştiricilerine yardımcı olan bir beyaz şapkalı hacker topluluğudur. Amacımız:
 
-- 🎮 Oyuncular için adil bir oyun deneyimi sağlamak
-- 🔒 Hile yazılımlarını gerçek zamanlı tespit ve engellemek
-- 💪 Oyun geliştiricilerine güçlü güvenlik araçları sunmak
-- 🤝 Oyun topluluğunu korumak ve desteklemek
+- 🔍 Oyunlardaki güvenlik açıklarını tespit etmek ve belgelemek
+- 🤝 Açık kaynak oyun geliştiricilerine güvenlik çözümleri sunmak
+- 📚 Tespit edilen güvenlik açıklarını etik kurallar çerçevesinde paylaşmak
+- 💡 Oyun güvenliği konusunda topluluk bilincini artırmak
 
 ## 🚀 Özellikler
 
-### 🔍 Gelişmiş Analiz Katmanları
+### 🔍 Gelişmiş Analiz Yetenekleri
 
 - **Statik Analiz**
-  - Kaynak Kod Analizi
+  - Kaynak Kod İncelemesi
   - Tersine Mühendislik
-  - İmza Tespiti
-  - API Çağrıları
-  - Şüpheli Fonksiyonlar
+  - Güvenlik Açığı Tespiti
+  - API Güvenlik Analizi
+  - Kod Kalite Kontrolü
 
 - **Dinamik Analiz**
-  - Bellek İzleme
-  - Davranış Analizi
-  - Sistem Çağrıları
-  - Network Trafiği
-  - DLL Enjeksiyonları
+  - Bellek Analizi
+  - Davranış İncelemesi
+  - Sistem Çağrıları Takibi
+  - Network Trafiği Analizi
+  - DLL İncelemesi
 
-- **AI Analizi**
-  - Makine Öğrenimi
-  - Patern Tespiti
+- **AI Destekli Araştırma**
+  - Patern Analizi
   - Anomali Tespiti
-  - Davranış Profili
-  - Risk Skorlaması
+  - Davranış Profilleme
+  - Risk Değerlendirme
+  - Güvenlik Açığı Tahminleme
 
-### ⚡ Teknik Özellikler
+### ⚡ Teknik Uzmanlık
 
-- Ring0 seviyesinde kernel koruması
-- Military-grade şifreleme
-- Gerçek zamanlı tehdit tespiti
-- AI destekli davranış analizi
-- 7/24 aktif koruma sistemi
+- Kernel seviyesinde analiz
+- İleri düzey şifreleme analizi
+- Gerçek zamanlı davranış inceleme
+- AI destekli güvenlik araştırmaları
+- 7/24 aktif araştırmacı sistemi
 
 ## 👥 Ekibimiz
 
-- Senior Reverse Engineering Uzmanları
+- Beyaz Şapkalı Hackerlar
 - Güvenlik Araştırmacıları
-- AI/ML Geliştiricileri
-- Sızma Testi Uzmanları
+- AI/ML Uzmanları
+- Tersine Mühendislik Uzmanları
 
 ## 🛠️ Teknolojiler
 
@@ -63,16 +63,16 @@ ANTİHİLE, oyun dünyasında adil ve güvenli bir ortam sağlamak için gelişt
 
 ## 📈 Başarılarımız
 
-- %99.9 tespit oranı
-- 1000+ tespit edilen hile yazılımı
-- 100+ korunan oyun
-- 1M+ korunan oyuncu
+- 100+ tespit edilen güvenlik açığı
+- 50+ desteklenen açık kaynak oyun
+- 1000+ güvenlik raporu
+- Aktif araştırmacı topluluğu
 
 ## 🔗 Bağlantılar
 
 - [Website](https://antihile.com)
-- [Dokümantasyon](https://docs.antihile.com)
-- [API Referansı](https://api.antihile.com)
+- [Araştırma Raporları](https://docs.antihile.com)
+- [Topluluk Forumu](https://forum.antihile.com)
 
 ## 📝 Lisans
 
@@ -81,5 +81,5 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 ---
 
 <div align="center">
-  <strong>ANTİHİLE - Güvenli Oyun Deneyimi İçin</strong>
+  <strong>ANTİHİLE - Etik Oyun Güvenlik Araştırmaları</strong>
 </div>
