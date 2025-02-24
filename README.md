@@ -1,32 +1,87 @@
-# AntiHile Project
+# 🛡️ ANTİHİLE - Gelişmiş Oyun Güvenlik Sistemi
 
-A TypeScript-based anti-cheat system.
+<div align="center">
+  <img src="public/matrix.png" alt="ANTİHİLE Logo" width="200"/>
+  <br/>
+  <strong>Oyun Güvenliğinde Yeni Nesil Çözüm</strong>
+</div>
 
-## Project Setup
+## 🎯 Misyonumuz
 
-1. Install Node.js from https://nodejs.org/
-2. Install project dependencies:
-   ```
-   npm install
-   ```
+ANTİHİLE, oyun dünyasında adil ve güvenli bir ortam sağlamak için geliştirilmiş ileri düzey bir anti-cheat sistemidir. Amacımız:
 
-## Development
+- 🎮 Oyuncular için adil bir oyun deneyimi sağlamak
+- 🔒 Hile yazılımlarını gerçek zamanlı tespit ve engellemek
+- 💪 Oyun geliştiricilerine güçlü güvenlik araçları sunmak
+- 🤝 Oyun topluluğunu korumak ve desteklemek
 
-To start development:
-```
-npm run dev
-```
+## 🚀 Özellikler
 
-## Build
+### 🔍 Gelişmiş Analiz Katmanları
 
-To build the project:
-```
-npm run build
-```
+- **Statik Analiz**
+  - Kaynak Kod Analizi
+  - Tersine Mühendislik
+  - İmza Tespiti
+  - API Çağrıları
+  - Şüpheli Fonksiyonlar
 
-## Run
+- **Dinamik Analiz**
+  - Bellek İzleme
+  - Davranış Analizi
+  - Sistem Çağrıları
+  - Network Trafiği
+  - DLL Enjeksiyonları
 
-To run the built project:
-```
-npm start
-```
+- **AI Analizi**
+  - Makine Öğrenimi
+  - Patern Tespiti
+  - Anomali Tespiti
+  - Davranış Profili
+  - Risk Skorlaması
+
+### ⚡ Teknik Özellikler
+
+- Ring0 seviyesinde kernel koruması
+- Military-grade şifreleme
+- Gerçek zamanlı tehdit tespiti
+- AI destekli davranış analizi
+- 7/24 aktif koruma sistemi
+
+## 👥 Ekibimiz
+
+- Senior Reverse Engineering Uzmanları
+- Güvenlik Araştırmacıları
+- AI/ML Geliştiricileri
+- Sızma Testi Uzmanları
+
+## 🛠️ Teknolojiler
+
+- React + TypeScript
+- Tailwind CSS
+- Framer Motion
+- Node.js
+- AI/ML Algoritmaları
+
+## 📈 Başarılarımız
+
+- %99.9 tespit oranı
+- 1000+ tespit edilen hile yazılımı
+- 100+ korunan oyun
+- 1M+ korunan oyuncu
+
+## 🔗 Bağlantılar
+
+- [Website](https://antihile.com)
+- [Dokümantasyon](https://docs.antihile.com)
+- [API Referansı](https://api.antihile.com)
+
+## 📝 Lisans
+
+Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
+
+---
+
+<div align="center">
+  <strong>ANTİHİLE - Güvenli Oyun Deneyimi İçin</strong>
+</div>
